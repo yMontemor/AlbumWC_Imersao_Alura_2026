@@ -147,66 +147,66 @@ figurinhas = [
         "categoria": "França",
         "imagem_url": "/figurinhas/20/imagem"
     },
-    # {
-    #     "id": 21,
-    #     "nome": "Paulo Silveira",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/21/imagem"
-    # },
-    # {
-    #     "id": 22,
-    #     "nome": "Guilherme Silveira",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/22/imagem"
-    # },
-    # {
-    #     "id": 23,
-    #     "nome": "Gustavo Guanabara",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/23/imagem"
-    # },
-    # {
-    #     "id": 24,
-    #     "nome": "Maurício Aniche",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/24/imagem"
-    # },
-    # {
-    #     "id": 25,
-    #     "nome": "Andre David",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/25/imagem"
-    # },
-    # {
-    #     "id": 26,
-    #     "nome": "Guilherme Lima",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/26/imagem"
-    # },
-    # {
-    #     "id": 27,
-    #     "nome": "Gi Space Coding",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/27/imagem"
-    # },
-    # {
-    #     "id": 28,
-    #     "nome": "Vinicius Neves",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/28/imagem"
-    # },
-    # {
-    #     "id": 29,
-    #     "nome": "Rafaela Ballerini",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/29/imagem"
-    # },
-    # {
-    #     "id": 30,
-    #     "nome": "Você",
-    #     "categoria": "Brasil",
-    #     "imagem_url": "/figurinhas/30/imagem"
-    # }
+    {
+        "id": 21,
+        "nome": "AT&T Stadium",
+        "categoria": "Palcos de Decisão",
+        "imagem_url": "/figurinhas/21/imagem"
+    },
+    {
+        "id": 22,
+        "nome": "Atlanta Stadium",
+        "categoria": "Palcos de Decisão",
+        "imagem_url": "/figurinhas/22/imagem"
+    },
+    {
+        "id": 23,
+        "nome": "Metlife Stadium",
+        "categoria": "Palcos de Decisão",
+        "imagem_url": "/figurinhas/23/imagem"
+    },
+    {
+        "id": 24,
+        "nome": "Hard Rock Stadium",
+        "categoria": "Palcos de Decisão",
+        "imagem_url": "/figurinhas/24/imagem"
+    },
+    {
+        "id": 25,
+        "nome": "Logo Oficial",
+        "categoria": "Palcos de Decisão",
+        "imagem_url": "/figurinhas/25/imagem"
+    },
+    {
+        "id": 26,
+        "nome": "Maple",
+        "categoria": "Mascotes e Símbolos",
+        "imagem_url": "/figurinhas/26/imagem"
+    },
+    {
+        "id": 27,
+        "nome": "Zayu",
+        "categoria": "Mascotes e Símbolos",
+        "imagem_url": "/figurinhas/27/imagem"
+    },
+    {
+        "id": 28,
+        "nome": "Trófeu da Copa do Mundo",
+        "categoria": "Mascotes e Símbolos",
+        "imagem_url": "/figurinhas/28/imagem"
+    },
+    {
+        "id": 29,
+        "nome": "Clutch",
+        "categoria": "Mascotes e Símbolos",
+        "imagem_url": "/figurinhas/29/imagem"
+    },
+    {
+        "id": 30,
+        "nome": "Trionda",
+        "categoria": "Mascotes e Símbolos",
+        "imagem_url": "/figurinhas/30/imagem"
+    }
 ]
 
 # Define o endpoint GET para obter a lista de figurinhas
