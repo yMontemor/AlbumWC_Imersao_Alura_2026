@@ -39,6 +39,7 @@ O projeto conta com uma interface moderna de alta fidelidade visual, com efeitos
 
 ## 📂 Estrutura do Projeto
 
+```text
 backend/
 ├── figurinhas/
 ├── main.py
