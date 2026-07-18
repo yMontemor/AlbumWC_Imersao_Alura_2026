@@ -31,9 +31,9 @@ O projeto conta com uma interface moderna de alta fidelidade visual, com efeitos
 
 ## 📁 Arquivos Principais
 
-* **[index.html](index.html):** Estrutura HTML do álbum com todas as páginas, cabeçalhos, rodapés e os slots (`.sticker-slot`) de figurinhas numerados de #01 a #30.
-* **[style.css](style.css):** Identidade visual premium baseada nas cores oficiais da FIFA 2026, com temas personalizados para cada página de acordo com a seleção correspondente, tipografia refinada e sombras profundas.
-* **[app.js](app.js):** Lógica da aplicação, inicializando a biblioteca de virada de página, controlando a reprodução de efeitos sonoros, e realizando o consumo da API REST para colar as figurinhas coletadas em tempo real.
+* **[index.html](frontend/index.html):** Estrutura HTML do álbum com todas as páginas, cabeçalhos, rodapés e os slots (`.sticker-slot`) de figurinhas numerados de #01 a #30.
+* **[style.css](frontend/style.css):** Identidade visual premium baseada nas cores oficiais da FIFA 2026, com temas personalizados para cada página de acordo com a seleção correspondente, tipografia refinada e sombras profundas.
+* **[app.js](frontend/app.js):** Lógica da aplicação, inicializando a biblioteca de virada de página, controlando a reprodução de efeitos sonoros, e realizando o consumo da API REST para colar as figurinhas coletadas em tempo real.
 
 ---
 
