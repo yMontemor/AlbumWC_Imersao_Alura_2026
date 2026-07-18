@@ -1,6 +1,6 @@
 # 🏆 Alura Album - Copa do Mundo 2026
 
-Um álbum de figurinhas virtual interativo em 3D celebrando as quatro seleções semifinalistas da **Copa do Mundo FIFA de 2026** (Argentina, Inglaterra, Espanha e França), além de seções dedicadas aos palcos das decisões (estádios) e símbolos oficiais do torneio. Este projeto foi desenvolvido durante à **Imersão Alura: Arquitetura Web 2026**.
+Um álbum de figurinhas virtual interativo em 3D celebrando as quatro seleções semifinalistas da **Copa do Mundo FIFA de 2026** (Argentina, Inglaterra, Espanha e França), além de seções dedicadas aos palcos das decisões (estádios) e símbolos oficiais do torneio. Este projeto foi desenvolvido durante a **Imersão Alura: Arquitetura Web 2026**.
 
 O projeto conta com uma interface moderna de alta fidelidade visual, com efeitos de virada de página realista, áudio interativo e integração dinâmica via API com backend usando FastAPI.
 
@@ -50,12 +50,12 @@ cd backend
 pip install -r requirements.txt
 
 # Inicie o servidor com Uvicorn
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 > O servidor rodará por padrão em `http://localhost:8000`.
 
 ### 2. Executar o Frontend
-Basta abrir o arquivo **[index.html](index.html)** diretamente no seu navegador ou utilizar uma extensão como o **Live Server** no VS Code para servir os arquivos estáticos.
+Abra a pasta `frontend` utilizando uma extensão como o **Live Server** (VS Code/Antigravity) ou outro servidor HTTP local e acesse o arquivo `index.html`.
 
 ---
 
@@ -64,3 +64,5 @@ Basta abrir o arquivo **[index.html](index.html)** diretamente no seu navegador 
 * 📖 **Simulação Física de Páginas:** Arraste com o mouse ou clique nas setas laterais para virar as páginas do álbum com som de papel realista.
 * ⚡ **Efeitos Visuais Premium:** Títulos com estilo de falha digital (glitch art) na capa e gradiente dourado na contracapa para melhor legibilidade contra o fundo temático.
 * 🔌 **Alimentação Dinâmica:** Se o servidor backend estiver ativo, o álbum preenche os slots automaticamente com as fotos oficiais dos jogadores, estádios, mascotes e símbolos correspondentes aos números indicados nos slots.
+* 🖼️ **Backend Dinâmico:** As imagens das figurinhas são disponibilizadas por uma API FastAPI, permitindo atualizar o conteúdo do álbum sem alterar o frontend.
+* 🌍 **Temas por Seleção:** Cada página utiliza uma identidade visual inspirada nas cores da seleção representada.
