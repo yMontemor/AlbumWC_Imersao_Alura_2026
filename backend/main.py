@@ -24,8 +24,6 @@ PASTA_BASE = os.path.dirname(os.path.abspath(__file__))
 PASTA_IMAGENS = os.path.join(PASTA_BASE, "figurinhas")
 
 # Lista contendo as figurinhas do álbum (total de 30 figurinhas)
-# Apenas as figurinhas cujas imagens existem na pasta figurinhas/ ficam ativas.
-# As outras (IDs 21 a 30) estão comentadas até que suas respectivas imagens estejam disponíveis.
 figurinhas = [
     {
         "id": 1,
@@ -83,7 +81,7 @@ figurinhas = [
     },
     {
         "id": 10,
-        "nome": "Tomas Tuchel",
+        "nome": "Thomas Tuchel",
         "categoria": "Inglaterra",
         "imagem_url": "/figurinhas/10/imagem"
     },
@@ -95,7 +93,7 @@ figurinhas = [
     },
     {
         "id": 12,
-        "nome": "Nico Willians",
+        "nome": "Nico Williams",
         "categoria": "Espanha",
         "imagem_url": "/figurinhas/12/imagem"
     },
