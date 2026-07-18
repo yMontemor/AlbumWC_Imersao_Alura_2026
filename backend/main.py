@@ -161,7 +161,7 @@ figurinhas = [
     },
     {
         "id": 23,
-        "nome": "Metlife Stadium",
+        "nome": "MetLife Stadium",
         "categoria": "Palcos de Decisão",
         "imagem_url": "/figurinhas/23/imagem"
     },
